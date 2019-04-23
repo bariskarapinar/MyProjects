@@ -30,3 +30,9 @@ This application is a basic SQLite database project for android devices. Adds da
 A custom alert dialog that you can modify for your use.
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/zbKhR1y/1.jpg" alt="1" border="0"></a>
+
+# BottomNavigationAndroid
+
+Bottom navigator for android. Favorites, Home, Profile. 
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/94xcGbV/1.jpg" alt="1" border="0"></a>
