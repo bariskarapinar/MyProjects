@@ -2,6 +2,13 @@
 This repository is created to show my projects.
 
 
+# AndroidCardViewExample
+
+Android Card view example for showing some cars, using adapters for a album view.
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/G0wKC5M/3.jpg" alt="3" border="0"></a>
+
+
 # AndroidIntroSlides
 This application has 4 customizable intro slides.
 
