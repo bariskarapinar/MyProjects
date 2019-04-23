@@ -25,7 +25,7 @@ This application is a basic SQLite database project for android devices. Adds da
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/tJNfgYz/2.jpg" alt="2" border="0"></a>
 
 
-# CustomButtonAndroid
+# CustomAlertDialog
 
 A custom alert dialog that you can modify for your use.
 
@@ -36,3 +36,5 @@ A custom alert dialog that you can modify for your use.
 Bottom navigator for android. Favorites, Home, Profile. 
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/94xcGbV/1.jpg" alt="1" border="0"></a>
+
+
