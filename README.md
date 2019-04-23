@@ -23,3 +23,10 @@ This application is a basic SQLite database project for android devices. Adds da
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/311Hd8v/1.jpg" alt="1" border="0"></a>
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/tJNfgYz/2.jpg" alt="2" border="0"></a>
+
+
+# CustomButtonAndroid
+
+A custom alert dialog that you can modify for your use.
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/zbKhR1y/1.jpg" alt="1" border="0"></a>
