@@ -1,16 +1,16 @@
 # MyProjects
 This repository is created to show my projects. SS of my projects.
 
+# FirebaseAuthProject
+Firebase Authentication Android App Sign in, Sign up, Create profile.
+
+<a href="https://miro.medium.com/max/624/1*_awo_TCdcA86jGH5yu38jA.png" alt="1" border="0"></a><br /></a><br />
 
 # AndroidCardViewExample
 
 Android Card view example for showing some cars, using adapters for a album view.
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/G0wKC5M/3.jpg" alt="3" border="0"></a>
-# FirebaseAuthProject
-Firebase Authentication Android App Sign in, Sign up, Create profile.
-
-<a href="https://miro.medium.com/max/624/1*_awo_TCdcA86jGH5yu38jA.png" alt="1" border="0"></a><br /></a><br />
 
 # AndroidIntroSlides
 This application has 4 customizable intro slides.
