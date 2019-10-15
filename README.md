@@ -4,7 +4,7 @@ This repository is created to show my projects. SS of my projects.
 # FirebaseAuthProject
 Firebase Authentication Android App Sign in, Sign up, Create profile.
 
-<a href="https://miro.medium.com/max/624/1*_awo_TCdcA86jGH5yu38jA.png" alt="1" border="0"></a><br /></a><br />
+<a href="https://ibb.co/d2HCX2m" alt="1" border="0"></a><br /></a><br />
 
 # AndroidCardViewExample
 
