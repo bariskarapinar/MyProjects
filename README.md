@@ -7,7 +7,10 @@ This repository is created to show my projects. SS of my projects.
 Android Card view example for showing some cars, using adapters for a album view.
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/G0wKC5M/3.jpg" alt="3" border="0"></a>
+# FirebaseAuthProject
+Firebase Authentication Android App Sign in, Sign up, Create profile.
 
+<a href="https://miro.medium.com/max/624/1*_awo_TCdcA86jGH5yu38jA.png" alt="1" border="0"></a><br /></a><br />
 
 # AndroidIntroSlides
 This application has 4 customizable intro slides.
@@ -23,7 +26,7 @@ This project is made for seeing current location, LAT-LONG coordinates. Applicat
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/NryqF2C/2.jpg" alt="2" border="0"></a>
 
-# SQLiteSaveReadEdit2
+# SQLiteSaveReadEdit
 
 An SQLite application for saving, reading, editing and deleting the data. Used Listview to show the data.
 
