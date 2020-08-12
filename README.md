@@ -59,7 +59,7 @@ This application is a basic SQLite database project for android devices. Adds da
 
 A custom alert dialog that you can modify for your use.
 
-<img src="https://user-images.githubusercontent.com/30619162/90007926-4050b600-dca4-11ea-92f6-94bb7d759f0c.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://i.ibb.co/zbKhR1y/1.jpg" width="80%">
+<img src="https://user-images.githubusercontent.com/30619162/90007926-4050b600-dca4-11ea-92f6-94bb7d759f0c.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://i.ibb.co/zbKhR1y/1.jpg" width="55%">
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/zbKhR1y/1.jpg" alt="1" border="0"></a>
 
