@@ -71,3 +71,7 @@ Bottom navigator for android. Favorites, Home, Profile.
 # MenuBar
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/721Q2Zy/1.jpg" alt="1" border="0"></a>
+
+# Switching Between Activities
+
+<img src="https://user-images.githubusercontent.com/30619162/90009689-34b2be80-dca7-11ea-8542-3ec2506a1bd9.gif" width="25%">
