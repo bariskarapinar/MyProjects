@@ -15,7 +15,7 @@ https://medium.com/@bariskarapinar/firebase-authentication-android-app-sign-in-s
 
 # FirebaseAuthWebAPP
 Web application using Firebase Authentication and Database features (Fetched User ID with Database) . We are going to use JavaScript and HTML and also some CSS.
-
+<br/> https://medium.com/@bariskarapinar/firebase-authentication-web-app-javascript-3165ebc92b68
 <img src="https://user-images.githubusercontent.com/30619162/90003995-9837ee80-dc9d-11ea-970c-3f347d07a1a5.png" width="100%">
 
 # LocationBasedMarketing (Private)
