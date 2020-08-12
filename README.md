@@ -32,7 +32,7 @@ This project addresses the problem of chasing the campaigns from internet, socia
 
 Android Card view example for showing some cars, using adapters for a album view.
 
-<img src="https://imgbb.com/"><img src="https://i.ibb.co/G0wKC5M/3.jpg" width="70%">
+<img src="https://i.ibb.co/G0wKC5M/3.jpg" width="70%">
 
 
 # AndroidIntroSlides
