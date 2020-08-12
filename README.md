@@ -3,13 +3,13 @@ This repository is created to show my projects. SS of my projects.
  
 # LocationMaps
 Location Updates & Google Maps Fragment — Android App
-https://medium.com/@bariskarapinar/location-updates-implementing-google-maps-fragment-android-app-d83a0b2d9914
+<br/>https://medium.com/@bariskarapinar/location-updates-implementing-google-maps-fragment-android-app-d83a0b2d9914
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/MPQ0dyy/Untitled.jpg" alt="3" border="0"></a>
 
 # FirebaseAuthProject
 Firebase Authentication Android App Sign in, Sign up, Create profile.
-https://medium.com/@bariskarapinar/firebase-authentication-android-app-sign-in-sign-up-create-profile-c20d185bbbaf
+<br/>https://medium.com/@bariskarapinar/firebase-authentication-android-app-sign-in-sign-up-create-profile-c20d185bbbaf
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/hWTQrWY/Untitled.png" alt="3" border="0"></a>
 
