@@ -53,6 +53,9 @@ An SQLite application for saving, reading, editing and deleting the data. Used L
 
 This application is a basic SQLite database project for android devices. Adds data to the db and shows the data in another activity with recycler view.
 
+<img src="https://user-images.githubusercontent.com/30619162/90007604-b6a0e880-dca3-11ea-83d0-5333fd136d53.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90007640-c7e9f500-dca3-11ea-804c-86a27bc59a81.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;
+
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/311Hd8v/1.jpg" alt="1" border="0"></a>
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/tJNfgYz/2.jpg" alt="2" border="0"></a>
