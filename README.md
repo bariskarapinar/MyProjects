@@ -7,6 +7,10 @@ Location Updates & Google Maps Fragment — Android App
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/MPQ0dyy/Untitled.jpg" alt="3" border="0"></a>
 
+<br /><img src="https://user-images.githubusercontent.com/30619162/90010387-6ed09000-dca8-11ea-9bb6-7c0035da0c6e.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/30619162/90010388-6f692680-dca8-11ea-858b-bf0d5246f03a.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90010385-6d9f6300-dca8-11ea-8aad-4a4d3c849604.gif" width="25%">
+
+<br /><img src="https://user-images.githubusercontent.com/30619162/90010682-ee5e5f00-dca8-11ea-8511-fe96f58e0bc8.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90010702-f7e7c700-dca8-11ea-8fc9-5d08fef5f2b5.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90010669-e6062400-dca8-11ea-93ec-01099e0e589f.gif" width="25%">
+
 # FirebaseAuthProject
 Firebase Authentication Android App Sign in, Sign up, Create profile.
 <br/>https://medium.com/@bariskarapinar/firebase-authentication-android-app-sign-in-sign-up-create-profile-c20d185bbbaf
