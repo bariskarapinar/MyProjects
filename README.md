@@ -31,8 +31,8 @@ This project addresses the problem of chasing the campaigns from internet, socia
 # AndroidCardViewExample
 
 Android Card view example for showing some cars, using adapters for a album view.
+<img src="https://imgbb.com/"><img src="https://i.ibb.co/G0wKC5M/3.jpg" width="25%">
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/G0wKC5M/3.jpg" alt="3" border="0"></a>
 
 # AndroidIntroSlides
 This application has 4 customizable intro slides.
