@@ -19,6 +19,10 @@ This project addresses the problem of chasing the campaigns from internet, socia
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/r7RFz0B/Untitled.jpg" alt="3" border="0"></a>
 
+# KickstarterAndroidApp
+
+<img src="https://user-images.githubusercontent.com/30619162/88918246-d4b52480-d271-11ea-885a-55705de9fe9a.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/30619162/88918589-645ad300-d272-11ea-99c9-d29230767438.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/88918711-91a78100-d272-11ea-9c85-21e7c24e06e2.gif" width="25%">
+
 # AndroidCardViewExample
 
 Android Card view example for showing some cars, using adapters for a album view.
