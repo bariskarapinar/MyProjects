@@ -28,6 +28,11 @@ This project addresses the problem of chasing the campaigns from internet, socia
 
 <img src="https://user-images.githubusercontent.com/30619162/88918246-d4b52480-d271-11ea-885a-55705de9fe9a.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/30619162/88918589-645ad300-d272-11ea-99c9-d29230767438.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/88918711-91a78100-d272-11ea-9c85-21e7c24e06e2.gif" width="25%">
 
+# Current Location Android App
+This project is made for seeing current location, LAT-LONG coordinates. Application can enable-disable location updates and also show last location. And also gives permision to use the location sercives.
+
+<img src="https://user-images.githubusercontent.com/30619162/90006639-ef3fc280-dca1-11ea-8343-cbd87a2ad915.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90006853-5f4e4880-dca2-11ea-8b14-9bccc01b5495.png" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90006850-5e1d1b80-dca2-11ea-8290-51dcab402e94.png" width="25%">
+
 # AndroidCardViewExample
 Android Card view example for showing some cars, using adapters for a album view.
 
@@ -37,12 +42,6 @@ Android Card view example for showing some cars, using adapters for a album view
 This application has 4 customizable intro slides.
 
 <a href="https://ibb.co/xDJVMHv"><img src="https://i.ibb.co/rm4nZsP/1.jpg" alt="1" border="0"></a><br /></a><br />
-
-
-# Current Location Android App
-This project is made for seeing current location, LAT-LONG coordinates. Application can enable-disable location updates and also show last location. And also gives permision to use the location sercives.
-
-<img src="https://user-images.githubusercontent.com/30619162/90006639-ef3fc280-dca1-11ea-8343-cbd87a2ad915.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90006853-5f4e4880-dca2-11ea-8b14-9bccc01b5495.png" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90006850-5e1d1b80-dca2-11ea-8290-51dcab402e94.png" width="25%">
 
 # SQLiteSaveReadEdit
 
