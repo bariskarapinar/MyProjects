@@ -59,14 +59,14 @@ This application is a basic SQLite database project for android devices. Adds da
 
 A custom alert dialog that you can modify for your use.
 
-<img src="https://user-images.githubusercontent.com/30619162/90008331-d258be80-dca4-11ea-85fe-13b459d3db0b.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90008333-d389eb80-dca4-11ea-85c1-57a2304dee8f.png" width="25%"> 
+<img src="https://user-images.githubusercontent.com/30619162/90008531-282d6680-dca5-11ea-9cb7-2127e86566d1.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90008534-295e9380-dca5-11ea-8669-e60ca8eeb738.png" width="25%"> 
 
 
 # BottomNavigationAndroid
 
 Bottom navigator for android. Favorites, Home, Profile. 
 
-<img src="https://user-images.githubusercontent.com/30619162/88918246-d4b52480-d271-11ea-885a-55705de9fe9a.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/30619162/88918589-645ad300-d272-11ea-99c9-d29230767438.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/88918711-91a78100-d272-11ea-9c85-21e7c24e06e2.gif" width="25%">
+<img src="https://user-images.githubusercontent.com/30619162/90008331-d258be80-dca4-11ea-85fe-13b459d3db0b.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90008333-d389eb80-dca4-11ea-85c1-57a2304dee8f.png" width="25%">
 
 # MenuBar
 
