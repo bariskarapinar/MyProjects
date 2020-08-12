@@ -13,6 +13,11 @@ https://medium.com/@bariskarapinar/firebase-authentication-android-app-sign-in-s
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/hWTQrWY/Untitled.png" alt="3" border="0"></a>
 
+# FirebaseAuthWebAPP
+Web application using Firebase Authentication and Database features (Fetched User ID with Database) . We are going to use JavaScript and HTML and also some CSS.
+
+<img src="https://user-images.githubusercontent.com/30619162/90003995-9837ee80-dc9d-11ea-970c-3f347d07a1a5.png" width="25%">
+
 # LocationBasedMarketing (Private)
 Location based marketing is my Computer Engineering graduatation project;
 This project addresses the problem of chasing the campaigns from internet, social media or newspapers. In this project, I have developed a mobile application, which helps shops and shopping mall visitors to find their interested campaigns by considering their location. The application saves user’s location to a database. With help of the web application also developed by me stores and shopping mall owners can enter their campaign information to the cloud database. Mobile application matches the user’s favorite locations with the campaign locations and creates a favorite campaign list according to the start and end date of the campaign. Also, user can view all the campaigns from cloud database.
