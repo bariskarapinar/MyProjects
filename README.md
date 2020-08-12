@@ -42,13 +42,7 @@ This application has 4 customizable intro slides.
 # Current Location Android App
 This project is made for seeing current location, LAT-LONG coordinates. Application can enable-disable location updates and also show last location. And also gives permision to use the location sercives.
 
-<img src="https://user-images.githubusercontent.com/30619162/90006639-ef3fc280-dca1-11ea-8343-cbd87a2ad915.gif" width="25%">    <img src="https://user-images.githubusercontent.com/30619162/90006853-5f4e4880-dca2-11ea-8b14-9bccc01b5495.png" width="25%">    <img src="https://user-images.githubusercontent.com/30619162/90006850-5e1d1b80-dca2-11ea-8290-51dcab402e94.png" width="25%">
-
-
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/n6mm8TP/1.jpg" alt="1" border="0"></a>
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/NryqF2C/2.jpg" alt="2" border="0"></a>
+<img src="https://user-images.githubusercontent.com/30619162/90006639-ef3fc280-dca1-11ea-8343-cbd87a2ad915.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90006853-5f4e4880-dca2-11ea-8b14-9bccc01b5495.png" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90006850-5e1d1b80-dca2-11ea-8290-51dcab402e94.png" width="25%">
 
 # SQLiteSaveReadEdit
 
