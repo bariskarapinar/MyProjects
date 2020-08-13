@@ -83,6 +83,12 @@ Bottom navigator for android. Favorites, Home, Profile.
 
 <img src="https://user-images.githubusercontent.com/30619162/90008331-d258be80-dca4-11ea-85fe-13b459d3db0b.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90008333-d389eb80-dca4-11ea-85c1-57a2304dee8f.png" width="25%">
 
+# BottomNavigationViewWithFragments
+
+Bottom navigator for android with fragments. Home, Favorites, Search.
+
+<img src="https://user-images.githubusercontent.com/30619162/90137217-00f69800-dd7e-11ea-81cd-4df49932f72c.gif" width="25%">
+
 # MenuBar
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/721Q2Zy/1.jpg" alt="1" border="0"></a>
