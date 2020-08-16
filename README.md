@@ -50,6 +50,10 @@ This project is made for seeing current location, LAT-LONG coordinates. Applicat
 
 <img src="https://user-images.githubusercontent.com/30619162/90054320-6302bf00-dce4-11ea-936a-0270a23f3e63.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/30619162/90054344-6bf39080-dce4-11ea-9c27-3ba3bf5b5a4d.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90054377-7746bc00-dce4-11ea-974e-b713c09b9901.gif" width="25%">
 
+# WebView
+
+<img src="https://user-images.githubusercontent.com/30619162/90334156-254bb200-dfd4-11ea-9fa7-2af673418e4e.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/30619162/90334158-267cdf00-dfd4-11ea-87ab-2a90a3abdf00.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90334159-2846a280-dfd4-11ea-8840-502755b5b971.gif" width="25%">
+
 # PhotoFilterApp
 The application has created to use filters on photos. When user starts the application, user can select photo from his gallery, use filters and save the filtered photo.
 
