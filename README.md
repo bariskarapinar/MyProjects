@@ -47,6 +47,10 @@ This project is made for seeing current location, LAT-LONG coordinates. Applicat
 
 <img src="https://user-images.githubusercontent.com/30619162/90006639-ef3fc280-dca1-11ea-8343-cbd87a2ad915.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90006853-5f4e4880-dca2-11ea-8b14-9bccc01b5495.png" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90006850-5e1d1b80-dca2-11ea-8290-51dcab402e94.png" width="25%">
 
+# RecyclerViewAndCardView
+
+<img src="https://user-images.githubusercontent.com/30619162/90392243-2e518780-e097-11ea-965c-5d895d48ceb2.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/30619162/90392263-35789580-e097-11ea-8d09-a940af67f905.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90392267-37425900-e097-11ea-9a67-ee5f3071d7b6.gif" width="25%">
+
 # NavigationDrawerAndFragments
 
 <img src="https://user-images.githubusercontent.com/30619162/90054320-6302bf00-dce4-11ea-936a-0270a23f3e63.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/30619162/90054344-6bf39080-dce4-11ea-9c27-3ba3bf5b5a4d.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90054377-7746bc00-dce4-11ea-974e-b713c09b9901.gif" width="25%">
