@@ -72,7 +72,7 @@ The application has created to use filters on photos. When user starts the appli
 # AndroidCardViewExample
 Android Card view example for showing some cars, using adapters for a album view.
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/G0wKC5M/3.jpg" alt="3" border="0"></a>
+<img src="https://user-images.githubusercontent.com/30619162/90533524-53222980-e181-11ea-88df-24023632f61a.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/30619162/90533534-561d1a00-e181-11ea-8369-268d94d7be43.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90533513-4f8ea280-e181-11ea-99b4-cf3df3907c74.gif" width="25%">
 
 # AndroidIntroSlides
 This application has 4 customizable intro slides.
