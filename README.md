@@ -77,7 +77,7 @@ Android Card view example for showing some cars, using adapters for a album view
 # AndroidIntroSlides
 This application has 4 customizable intro slides.
 
-<a href="https://ibb.co/xDJVMHv"><img src="https://i.ibb.co/rm4nZsP/1.jpg" alt="1" border="0"></a><br /></a><br />
+<img src="https://user-images.githubusercontent.com/30619162/90534222-27537380-e182-11ea-8296-4d85e5928d7b.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/30619162/90534215-2589b000-e182-11ea-8dec-a0b3d37400a0.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90534232-2a4e6400-e182-11ea-9859-4f038921a6c1.gif" width="25%">
 
 # CumsomSpinnerWithCountryFlags
 
