@@ -87,13 +87,13 @@ This application has 4 customizable intro slides.
 
 An SQLite application for saving, reading, editing and deleting the data. Used Listview to show the data.
 
-<a href="https://ibb.co/JsPhXgR"><img src="https://i.ibb.co/fx7cmLY/3.jpg" alt="3" border="0"></a><br /><br />
+<img src="https://user-images.githubusercontent.com/30619162/90534717-bcef0300-e182-11ea-9209-970716a7cb3f.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/30619162/90534726-bfe9f380-e182-11ea-85be-f2f46183da38.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90534724-be203000-e182-11ea-9989-9c4368f51638.gif" width="25%">
 
 # SQLiteDatabase2
 
 This application is a basic SQLite database project for android devices. Adds data to the db and shows the data in another activity with recycler view.
 
-<img src="https://user-images.githubusercontent.com/30619162/90007604-b6a0e880-dca3-11ea-83d0-5333fd136d53.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90007640-c7e9f500-dca3-11ea-804c-86a27bc59a81.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/30619162/90007604-b6a0e880-dca3-11ea-83d0-5333fd136d53.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90007640-c7e9f500-dca3-11ea-804c-86a27bc59a81.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90534937-06d7e900-e183-11ea-84ec-7d5803c68245.gif" width="25%">
 
 # CustomAlertDialog
 
