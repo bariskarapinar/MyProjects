@@ -68,9 +68,13 @@ The application has created to use filters on photos. When user starts the appli
 
 <img src="https://user-images.githubusercontent.com/30619162/90520687-5c57ca00-e172-11ea-8bd4-c399bf470c4c.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/30619162/90520689-5c57ca00-e172-11ea-83ec-c699d49bc4da.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90520686-5b269d00-e172-11ea-9e8d-9215c645291b.gif" width="25%">
 
+# TextToSpeech
+This app converts the input text to speech. I used the text to speech API in Android. This app contains English, Spanish, German... You can also adjust the pitch and speed of the spoken text using SeekBars.
+
+<img src="https://user-images.githubusercontent.com/30619162/90775263-4e847f00-e301-11ea-8709-4a9ee54bc3bf.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/30619162/90775269-504e4280-e301-11ea-85d7-6ad7f981a6ea.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90775273-50e6d900-e301-11ea-82da-4261841177d8.gif" width="25%">
 
 # AndroidCardViewExample
-Android Card view example for showing some cars, using adapters for a album view.
+Android Card view example for showing some cars, using adapters for the album view. 
 
 <img src="https://user-images.githubusercontent.com/30619162/90533524-53222980-e181-11ea-88df-24023632f61a.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/30619162/90533534-561d1a00-e181-11ea-8369-268d94d7be43.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90533513-4f8ea280-e181-11ea-99b4-cf3df3907c74.gif" width="25%">
 
