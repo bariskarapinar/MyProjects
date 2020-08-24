@@ -91,6 +91,10 @@ This application has 4 customizable intro slides.
 
 <img src="https://user-images.githubusercontent.com/30619162/90647081-9c857e00-e240-11ea-8e6b-1200abf79340.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/30619162/90647084-9db6ab00-e240-11ea-8636-a18df59303e7.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90647087-9e4f4180-e240-11ea-823a-859f19651027.gif" width="25%">
 
+# RecyclerViewWithSearchView
+
+<img src="https://user-images.githubusercontent.com/30619162/91037802-4e8ec280-e612-11ea-8e94-fac359582096.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/30619162/91037792-4c2c6880-e612-11ea-9bc3-273373ddaac4.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/91037797-4d5d9580-e612-11ea-9317-bfd3f203ee17.gif" width="25%">
+
 # SQLiteSaveReadEdit
 
 An SQLite application for saving, reading, editing and deleting the data. Used Listview to show the data.
