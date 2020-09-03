@@ -1,8 +1,6 @@
 # MyProjects
 This repository is created to show my projects. SS' of my projects.  
-    
- 
- 
+  
   
 # LocationMaps
 Location Updates & Google Maps Fragment — Android App
