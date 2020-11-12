@@ -68,6 +68,14 @@ In this repo I built a note taking app, using the Android Architecture Component
 
 <img src="https://user-images.githubusercontent.com/30619162/91641111-036a1a80-ea2b-11ea-91c5-182865f3d0c2.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/30619162/91641115-05cc7480-ea2b-11ea-894a-02003554eee5.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/91641118-07963800-ea2b-11ea-8a2e-3ee245b67618.gif" width="25%">
 
+# PayAPI
+
+PayAPI application starts with a slide show to inform the user at the first launch. This slide show is only shown once at the first opening after the application is loaded, and you can replay it with the button in the menu if you want to look again later. On the home screen, the user meets the amount of fuel payment, the user can see the amount he wants to pay and confirm. After the user approves the amount, the information is matched with the information received from the payosy server and the payment is transferred. Apart from these options, the user can access the Token web page thanks to the bottom navigation at the bottom. They can benefit from current information and news about the company.
+
+<img src="https://user-images.githubusercontent.com/30619162/94339507-29231900-0003-11eb-83cb-064994c496cd.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/30619162/94339504-258f9200-0003-11eb-9a40-851165b0aa50.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/94339506-27f1ec00-0003-11eb-8caf-936ec9c663c7.gif" width="25%">
+
+<img src="https://user-images.githubusercontent.com/30619162/94339577-90d96400-0003-11eb-9b0b-66aa96773810.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/30619162/94339579-933bbe00-0003-11eb-9dc7-d653068cc807.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/94339582-946ceb00-0003-11eb-9ecd-164af7bc0717.gif" width="25%">
+
 # DiceRoller
 
 <img src="https://user-images.githubusercontent.com/30619162/90520687-5c57ca00-e172-11ea-8bd4-c399bf470c4c.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/30619162/90520689-5c57ca00-e172-11ea-83ec-c699d49bc4da.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/30619162/90520686-5b269d00-e172-11ea-9e8d-9215c645291b.gif" width="25%">
