@@ -1,5 +1,40 @@
 # MyProjects
-This repository is created to show my projects. SS' of my projects.  
+This repository is created to show my personel development projects. SS' of my projects.  
+These are applications I'm working on for educational purposes, not commercial projects.
+
+# FlickrBrowserApp
+
+<img src="https://user-images.githubusercontent.com/30619162/177601833-c37e4dc0-17f5-4ba0-b5b5-66989a9587e3.png" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;   <img src="https://user-images.githubusercontent.com/30619162/177601835-b786968c-eb73-4574-a981-744afa8f8fbc.png" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;   <img src="https://user-images.githubusercontent.com/30619162/177601841-301adcd9-c8d1-41e8-a1e8-5617cdcd8b61.png" width="25%"> 
+
+<img src="https://user-images.githubusercontent.com/30619162/177601793-353379fd-f6a3-43e5-80ea-20e3455a6f87.png" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;   <img src="https://user-images.githubusercontent.com/30619162/177601820-5915aa7c-6f5c-4fc8-a212-05c3f326270f.png" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;   <img src="https://user-images.githubusercontent.com/30619162/177601823-56d69d54-bd93-46f7-a0af-dcd2d58e7b21.png" width="25%"> 
+
+# TheTop10DownloaderApp
+Udemy - Android App Development Masterclass using Kotlin - The Top 10 Downloader App
+
+<img src="https://user-images.githubusercontent.com/30619162/175660119-8b94ee98-5835-4745-8202-414771f328ea.png" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;   <img src="https://user-images.githubusercontent.com/30619162/175660124-459b2fd4-d6f5-4832-99d4-92c968222c43.png" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;   <img src="https://user-images.githubusercontent.com/30619162/175660129-96d25811-8786-448d-94b1-bce7c46fb2b0.png" width="25%"> 
+
+<img src="https://user-images.githubusercontent.com/30619162/175663252-64267b4f-d47a-4759-b38d-fa41de973ef1.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;   <img src="https://user-images.githubusercontent.com/30619162/175663268-1f6a003f-9100-450e-b370-44ed84601add.gif" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;   <img src="https://user-images.githubusercontent.com/30619162/175663281-1d520e1f-78ea-4ee6-8da7-99bec97a7353.gif" width="25%"> 
+
+# CalculatorApp
+<img src="https://user-images.githubusercontent.com/30619162/174648717-20c2a6b0-8605-41d4-b1bc-9aef3383b5de.png" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;      <img src="https://user-images.githubusercontent.com/30619162/174648724-06ef0f19-8d5c-4756-bc4f-5832467cb1d1.png" width="25%"> 
+
+# YouTubePlayer
+Android App Development Masterclass using Kotlin - YouTube Player
+
+<img src="https://user-images.githubusercontent.com/30619162/175788589-96fa4d1f-7185-4713-9de2-448326da8561.jpeg" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;   <img src="https://user-images.githubusercontent.com/30619162/175788591-f53b7e32-847d-4025-b1d2-0341309ebd20.jpeg" width="25%">
+
+<img src="https://user-images.githubusercontent.com/30619162/175788597-2694b672-b48a-4f3b-888c-6c27706f84a9.jpeg" width="25%"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/30619162/175788596-f3349ccf-3b88-4827-bed1-92562269fcb9.jpeg" width="25%"> 
+
+<img src="https://user-images.githubusercontent.com/30619162/175788671-a278f789-2e95-4cb0-a7bc-6d49a351a14e.jpeg" width="65%">
+
+<img src="https://user-images.githubusercontent.com/30619162/175788672-4dadace5-c36a-4216-bce9-d02aa9417660.jpeg" width="65%">
+
+<img src="https://user-images.githubusercontent.com/30619162/175788673-49de1782-9233-4ea0-83d7-c0bde8f1b7b4.jpeg" width="65%">
+
+# ButtonCounterApp
+Udemy - Android App Development Masterclass using Kotlin - Course Project - Button Counter App
+
+<img src="https://user-images.githubusercontent.com/30619162/174451892-41af22fa-b905-4d33-8a95-3b7f6a6a7927.png" width="25%">  &nbsp;&nbsp;&nbsp;&nbsp;   <img src="https://user-images.githubusercontent.com/30619162/174451893-cb56987d-937c-434f-a080-81d9f8f4517d.png" width="25%">  
 
 # LocationMaps
 Location Updates & Google Maps Fragment — Android App
