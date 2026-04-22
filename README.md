@@ -203,4 +203,5 @@ Bottom navigator for android with fragments. Home, Favorites, Search.
 
 # Switching Between Activities
 
+
 <img src="https://user-images.githubusercontent.com/30619162/90009689-34b2be80-dca7-11ea-8542-3ec2506a1bd9.gif" width="25%">
