@@ -1,6 +1,6 @@
 # MyProjects
 This repository is created to show my personel development projects. SS' of my projects.  
-These are applications I'm working on for educational purposes, not commercial projects.
+These are applications I'm working on for __educational purposes, not commercial projects.__
 
 # FlickrBrowserApp
 
