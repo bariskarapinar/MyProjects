@@ -197,6 +197,10 @@ Bottom navigator for android with fragments. Home, Favorites, Search.
 
 <img src="https://user-images.githubusercontent.com/30619162/90137217-00f69800-dd7e-11ea-81cd-4df49932f72c.gif" width="25%">
 
+# GlideDemo
+
+<img width="348" height="691" alt="image" src="https://github.com/user-attachments/assets/e4dc9b45-6b73-4af8-9917-33c5f221d768" />
+
 # MenuBar
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/721Q2Zy/1.jpg" alt="1" border="0"></a>
