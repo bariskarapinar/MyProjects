@@ -16,7 +16,7 @@
 ---
 
 ## 👋 Welcome!
-Welcome to my personal collection of **37 Android development projects**. This repository serves as a vibrant showcase of my journey in mobile development, featuring a wide spectrum of applications from fundamental UI components to complex systems using modern architecture and cloud integrations.
+Welcome to my personal collection of **42 Android development projects**. This repository serves as a vibrant showcase of my journey in mobile development, featuring a wide spectrum of applications from fundamental UI components to complex systems using modern architecture and cloud integrations.
 
 > [!TIP]
 > **Check out the GIFs!** Most projects include an animated preview to show them in action. 🎬
@@ -28,20 +28,10 @@ Welcome to my personal collection of **37 Android development projects**. This r
 - [🔥 Firebase & Cloud Integration](#-firebase--cloud-integration)
 - [🗺️ Location & Maps](#-location--maps)
 - [💾 Persistence & Data Management](#-persistence--data-management)
-- [🔌 API-Driven & Clones](#-api-driven--clones)
 - [🎨 UI/UX & Core Components](#-uiux--core-components)
 - [🎮 Mini Games](#-mini-games)
+- [🏗️ Fundamentals & Layouts](#-fundamentals--layouts)
 - [🛠️ Tech Stack](#-technical-skills-demonstrated)
-
----
-
-## 💡 Technical Skills Demonstrated
-- **Languages:** Kotlin, Java, JavaScript, HTML/CSS
-- **Architecture:** MVVM, Clean Architecture, Single Activity Pattern
-- **Jetpack:** Room, LiveData, ViewModel, Lifecycle, Navigation Component
-- **UI & UX:** Material Design, RecyclerView, ViewPager2, MotionLayout, Fragments, Custom Views
-- **Third-Party:** Firebase, Google Maps, YouTube API, Flickr API, Glide, Retrofit/Volley
-- **Storage:** SQLite, Room, SharedPreferences
 
 ---
 
@@ -193,7 +183,7 @@ Comprehensive SQLite CRUD operations and data displays.
 
 ---
 
-## 🔌 API-Driven & Clones
+## 🎨 UI/UX & Core Components
 
 ### 16. 🖼️ PhotoFilterApp 🎨
 Image processing filters with gallery integration.
@@ -282,6 +272,54 @@ Randomized dice logic with animations.
   <img src="https://user-images.githubusercontent.com/30619162/90520687-5c57ca00-e172-11ea-8bd4-c399bf470c4c.gif" width="24%">
   <img src="https://user-images.githubusercontent.com/30619162/95651702-c480b780-0af4-11eb-8884-fb479de43fa6.gif" width="24%">
 </p>
+
+---
+
+## 🏗️ Fundamentals & Layouts
+
+### 38. Android Activity Lifecycle 🔄
+Deep dive into Android Activity states and transitions.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c17d5be7-e5b4-42c8-be2c-74ee09a3f245" width="36%">
+  <img src="https://github.com/user-attachments/assets/58151a7c-788d-459c-9150-7fd78be00bdf" width="36%">
+</p>
+
+### 39. FrameLayout Sample Project 🖼️
+Exploring stack-based layout management.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b2bb5e0b-6da9-448d-97f6-1b6d629d33c1" width="36%">
+  <img src="https://github.com/user-attachments/assets/ada901c0-b09a-4ba6-acba-79c47f343986" width="36%">
+</p>
+
+### 40. ConstraintLayout Demo 🔗
+Building complex, flat UI hierarchies for performance.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0f1cbfd4-242d-4037-8e85-658512078178" width="45%">
+</p>
+
+### 41. RelativeLayout Sample Project 📐
+Positioning components relative to parents and siblings.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b1978a1b-57d9-441a-af5c-b6b0545d9dff" width="45%">
+</p>
+
+### 42. LinearLayout Demo 📏
+Simple horizontal and vertical alignment of UI elements.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a316f49e-8700-4c7f-95b7-43ba1ae55ed3" width="45%">
+</p>
+
+---
+
+## 💡 Technical Skills Demonstrated
+- **Languages:** Kotlin, Java, JavaScript, HTML/CSS
+- **Architecture:** MVVM, Clean Architecture, Single Activity Pattern
+- **Jetpack:** Room, LiveData, ViewModel, Lifecycle, Navigation Component
+- **UI & UX:** Material Design, RecyclerView, ViewPager2, MotionLayout, Fragments, Custom Views
+- **Third-Party:** Firebase, Google Maps, YouTube API, Flickr API, Glide, Retrofit/Volley
+- **Storage:** SQLite, Room, SharedPreferences
+
 ---
 <p align="center">
   <i>Created with ❤️ by <b>Barış Karapınar</b></i>
@@ -289,4 +327,3 @@ Randomized dice logic with animations.
   <a href="https://medium.com/@bariskarapinar"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://github.com/bariskarapinar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
