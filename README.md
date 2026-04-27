@@ -320,6 +320,7 @@ Simple horizontal and vertical alignment of UI elements.
 - **Third-Party:** Firebase, Google Maps, YouTube API, Flickr API, Glide, Retrofit/Volley
 - **Storage:** SQLite, Room, SharedPreferences
 
+
 ---
 <p align="center">
   <i>Created with ❤️ by <b>Barış Karapınar</b></i>
