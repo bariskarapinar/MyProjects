@@ -248,15 +248,7 @@ Implementation of core Android navigation patterns.
   <img src="https://user-images.githubusercontent.com/30619162/90009689-34b2be80-dca7-11ea-8542-3ec2506a1bd9.gif" width="24%">
 </p>
 
-### 27. NavigationSimpleDemo 🗺️
-Simple demonstration of Android Navigation Component.
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/fd5fc736-173b-433c-9889-36f844b4e376" width="24%">
-  <img src="https://github.com/user-attachments/assets/8aeacfbc-8899-48bd-bb79-a0c9a1cbe62f" width="24%">
-  <img src="https://github.com/user-attachments/assets/fad47ab9-9013-4005-9931-e2bcd0490bb4" width="24%">
-</p>
-
-### 28. RecyclerView/CardView | 29. RecyclerView Search | 30. CardView Example ✨
+### 27. RecyclerView/CardView | 28. RecyclerView Search | 29. CardView Example ✨
 Advanced list displays and search functionalities.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/30619162/90392243-2e518780-e097-11ea-965c-5d895d48ceb2.gif" width="24%">
@@ -264,7 +256,7 @@ Advanced list displays and search functionalities.
   <img src="https://user-images.githubusercontent.com/30619162/90533524-53222980-e181-11ea-88df-24023632f61a.gif" width="24%">
 </p>
 
-### 31. WebView | 32. Custom Alert Dialog | 33. MenuBar 🔗
+### 30. WebView | 31. Custom Alert Dialog | 32. MenuBar 🔗
 Integrating web content and enhancing user interaction.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/30619162/90334156-254bb200-dfd4-11ea-9fa7-2af673418e4e.gif" width="24%">
@@ -272,7 +264,7 @@ Integrating web content and enhancing user interaction.
   <img src="https://i.ibb.co/721Q2Zy/1.jpg" width="24%">
 </p>
 
-### 34. Custom Spinner | 35. Chronometer | 36. TextToSpeech | 37. Glide Demo 🛠️
+### 33. Custom Spinner | 34. Chronometer | 35. TextToSpeech | 36. Glide Demo 🛠️
 Interactive widgets and library integrations.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/30619162/90249300-dfabaf80-de42-11ea-8fb8-4d296bbe98bc.gif" width="24%">
@@ -281,6 +273,12 @@ Interactive widgets and library integrations.
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e4dc9b45-6b73-4af8-9917-33c5f221d768" width="45%">
+</p>
+
+### 37. 🎨 Palette Demo 🖼️
+Extracting prominent colors from images to create dynamic UIs.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0343c9bb-1dea-48f4-af29-6d5d52fd7a69" width="24%">
 </p>
 
 ---
