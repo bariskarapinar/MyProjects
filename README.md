@@ -16,7 +16,7 @@
 ---
 
 ## 👋 Welcome!
-Welcome to my personal collection of **44 Android development projects**. This repository serves as a vibrant showcase of my journey in mobile development, featuring a wide spectrum of applications from fundamental UI components to complex systems using modern architecture and cloud integrations.
+Welcome to my personal collection of **45 Android development projects**. This repository serves as a vibrant showcase of my journey in mobile development, featuring a wide spectrum of applications from fundamental UI components to complex systems using modern architecture and cloud integrations.
 
 > [!TIP]
 > **Check out the GIFs!** Most projects include an animated preview to show them in action. 🎬
@@ -248,7 +248,15 @@ Implementation of core Android navigation patterns.
   <img src="https://user-images.githubusercontent.com/30619162/90009689-34b2be80-dca7-11ea-8542-3ec2506a1bd9.gif" width="24%">
 </p>
 
-### 27. RecyclerView/CardView | 28. RecyclerView Search | 29. CardView Example ✨
+### 27. NavigationSimpleDemo 🗺️
+Simple demonstration of Android Navigation Component.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fd5fc736-173b-433c-9889-36f844b4e376" width="24%">
+  <img src="https://github.com/user-attachments/assets/8aeacfbc-8899-48bd-bb79-a0c9a1cbe62f" width="24%">
+  <img src="https://github.com/user-attachments/assets/fad47ab9-9013-4005-9931-e2bcd0490bb4" width="24%">
+</p>
+
+### 28. RecyclerView/CardView | 29. RecyclerView Search | 30. CardView Example ✨
 Advanced list displays and search functionalities.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/30619162/90392243-2e518780-e097-11ea-965c-5d895d48ceb2.gif" width="24%">
@@ -256,7 +264,7 @@ Advanced list displays and search functionalities.
   <img src="https://user-images.githubusercontent.com/30619162/90533524-53222980-e181-11ea-88df-24023632f61a.gif" width="24%">
 </p>
 
-### 30. WebView | 31. Custom Alert Dialog | 32. MenuBar 🔗
+### 31. WebView | 32. Custom Alert Dialog | 33. MenuBar 🔗
 Integrating web content and enhancing user interaction.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/30619162/90334156-254bb200-dfd4-11ea-9fa7-2af673418e4e.gif" width="24%">
@@ -264,7 +272,7 @@ Integrating web content and enhancing user interaction.
   <img src="https://i.ibb.co/721Q2Zy/1.jpg" width="24%">
 </p>
 
-### 33. Custom Spinner | 34. Chronometer | 35. TextToSpeech | 36. Glide Demo 🛠️
+### 34. Custom Spinner | 35. Chronometer | 36. TextToSpeech | 37. Glide Demo 🛠️
 Interactive widgets and library integrations.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/30619162/90249300-dfabaf80-de42-11ea-8fb8-4d296bbe98bc.gif" width="24%">
@@ -279,7 +287,7 @@ Interactive widgets and library integrations.
 
 ## 🎮 Mini Games
 
-### 37. ❌ TicTacToe 🕹️
+### 38. ❌ TicTacToe 🕹️
 Classic logic game implementation.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/30619162/90333115-a5b9e500-dfcb-11ea-8af8-6c342aace690.gif" width="24%">
@@ -287,7 +295,7 @@ Classic logic game implementation.
   <img src="https://user-images.githubusercontent.com/30619162/90333117-a6eb1200-dfcb-11ea-8fba-0a3fb7f84fd6.gif" width="24%">
 </p>
 
-### 38. Dice Roller | 39. Dice Roller Double 🎲
+### 39. Dice Roller | 40. Dice Roller Double 🎲
 Randomized dice logic with animations.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/30619162/90520687-5c57ca00-e172-11ea-8bd4-c399bf470c4c.gif" width="24%">
@@ -298,33 +306,33 @@ Randomized dice logic with animations.
 
 ## 🏗️ Fundamentals & Layouts
 
-### 40. Android Activity Lifecycle 🔄
+### 41. Android Activity Lifecycle 🔄
 Deep dive into Android Activity states and transitions.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c17d5be7-e5b4-42c8-be2c-74ee09a3f245" width="36%">
   <img src="https://github.com/user-attachments/assets/58151a7c-788d-459c-9150-7fd78be00bdf" width="36%">
 </p>
 
-### 41. FrameLayout Sample Project 🖼️
+### 42. FrameLayout Sample Project 🖼️
 Exploring stack-based layout management.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b2bb5e0b-6da9-448d-97f6-1b6d629d33c1" width="36%">
   <img src="https://github.com/user-attachments/assets/ada901c0-b09a-4ba6-acba-79c47f343986" width="36%">
 </p>
 
-### 42. ConstraintLayout Demo 🔗
+### 43. ConstraintLayout Demo 🔗
 Building complex, flat UI hierarchies for performance.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0f1cbfd4-242d-4037-8e85-658512078178" width="45%">
 </p>
 
-### 43. RelativeLayout Sample Project 📐
+### 44. RelativeLayout Sample Project 📐
 Positioning components relative to parents and siblings.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b1978a1b-57d9-441a-af5c-b6b0545d9dff" width="45%">
 </p>
 
-### 44. LinearLayout Demo 📏
+### 45. LinearLayout Demo 📏
 Simple horizontal and vertical alignment of UI elements.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a316f49e-8700-4c7f-95b7-43ba1ae55ed3" width="45%">
