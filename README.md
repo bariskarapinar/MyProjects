@@ -16,7 +16,7 @@
 ---
 
 ## 👋 Welcome!
-Welcome to my personal collection of **46 Android development projects**. This repository serves as a vibrant showcase of my journey in mobile development, featuring a wide spectrum of applications from fundamental UI components to complex systems using modern architecture and cloud integrations.
+Welcome to my personal collection of **47 Android development projects**. This repository serves as a vibrant showcase of my journey in mobile development, featuring a wide spectrum of applications from fundamental UI components to complex systems using modern architecture and cloud integrations.
 
 > [!TIP]
 > **Check out the GIFs!** Most projects include an animated preview to show them in action. 🎬
@@ -124,7 +124,20 @@ A delightful recipe management application using modern Android components.
   <img src="https://github.com/user-attachments/assets/f2feda11-74ac-4c8a-bb8f-1adc573b3ff9" width="24%">
 </p>
 
-### 9. 💳 PayAPI 💎
+### 9. 🗂️ CardView Sample 🃏
+Elegant card-based layouts for modern UI components.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5fa0132a-f4e6-432a-9c77-f9a0e4daf33b" width="24%">
+  <img src="https://github.com/user-attachments/assets/1aa4e7b7-235a-4fd7-89de-de469e02193b" width="24%">
+  <img src="https://github.com/user-attachments/assets/f80e5deb-1f84-489d-bb6c-f08b4d26a991" width="24%">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4159cf93-e57b-4442-99d5-2b8035db8c30" width="24%">
+  <img src="https://github.com/user-attachments/assets/a1ede6e1-10d1-46d8-a947-7bea6b4ef199" width="24%">
+  <img src="https://github.com/user-attachments/assets/9c8ed484-09b5-4869-9da7-19648803c98d" width="24%">
+</p>
+
+### 10. 💳 PayAPI 💎
 Fuel payment application with seamless onboarding and secure transaction flows.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/30619162/94339507-29231900-0003-11eb-83cb-064994c496cd.gif" width="24%">
@@ -141,14 +154,14 @@ Fuel payment application with seamless onboarding and secure transaction flows.
 
 ## 🔥 Firebase & Cloud Integration
 
-### 10. Firebase Auth Android | 11. Firebase Auth Web ☁️
+### 11. Firebase Auth Android | 12. Firebase Auth Web ☁️
 Cross-platform authentication solution using Firebase services.
 <p align="center">
   <img src="https://i.ibb.co/hWTQrWY/Untitled.png" width="36%">
   <img src="https://user-images.githubusercontent.com/30619162/90003995-9837ee80-dc9d-11ea-970c-3f347d07a1a5.png" width="36%">
 </p>
 
-### 12. 🛍️ Location Based Marketing (Private) 📍
+### 13. 🛍️ Location Based Marketing (Private) 📍
 Matches user preferences with nearby store campaigns using geolocation.
 <p align="center">
   <img src="https://i.ibb.co/r7RFz0B/Untitled.jpg" width="45%">
@@ -158,7 +171,7 @@ Matches user preferences with nearby store campaigns using geolocation.
 
 ## 🗺️ Location & Maps
 
-### 13. Location Tracking & Maps 🌍
+### 14. Location Tracking & Maps 🌍
 Real-time tracking and Google Maps integration.
 <p align="center">
   <img src="https://i.ibb.co/MPQ0dyy/Untitled.jpg" width="45%">
@@ -174,7 +187,7 @@ Real-time tracking and Google Maps integration.
   <img src="https://user-images.githubusercontent.com/30619162/90010669-e6062400-dca8-11ea-93ec-01099e0e589f.gif" width="24%">
 </p>
 
-### 14. Current Location App 📡
+### 15. Current Location App 📡
 Coordinate tracking (LAT-LONG) and location service permissions.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/30619162/90006639-ef3fc280-dca1-11ea-8343-cbd87a2ad915.gif" width="24%">
@@ -186,7 +199,7 @@ Coordinate tracking (LAT-LONG) and location service permissions.
 
 ## 💾 Persistence & Data Management
 
-### 15. 🛒 Grocery List App 🍅
+### 16. 🛒 Grocery List App 🍅
 SQLite database integration with RecyclerView.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/30619162/91163983-0e454800-e6d7-11ea-85c7-478d5678e0f9.gif" width="24%">
@@ -194,7 +207,7 @@ SQLite database integration with RecyclerView.
   <img src="https://user-images.githubusercontent.com/30619162/91163978-0c7b8480-e6d7-11ea-918e-37220c5b2019.gif" width="24%">
 </p>
 
-### 16. ❓ SQLite Quiz App 📝
+### 17. ❓ SQLite Quiz App 📝
 Database-driven quiz application with score tracking.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/30619162/90311891-902fb700-df08-11ea-958e-1ff9209c5655.gif" width="24%">
@@ -202,7 +215,7 @@ Database-driven quiz application with score tracking.
   <img src="https://user-images.githubusercontent.com/30619162/90311894-92921100-df08-11ea-8b0e-69a58145ded1.gif" width="24%">
 </p>
 
-### 17. SQLite Save/Read/Edit | 18. SQLite Database 2 📂
+### 18. SQLite Save/Read/Edit | 19. SQLite Database 2 📂
 Comprehensive SQLite CRUD operations and data displays.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/30619162/90534717-bcef0300-e182-11ea-9209-970716a7cb3f.gif" width="24%">
@@ -219,7 +232,7 @@ Comprehensive SQLite CRUD operations and data displays.
 
 ## 🎨 UI/UX & Core Components
 
-### 19. 🖼️ PhotoFilterApp 🎨
+### 20. 🖼️ PhotoFilterApp 🎨
 Image processing filters with gallery integration.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/30619162/90522372-4cd98080-e174-11ea-8dba-528f7fd26ca5.gif" width="24%">
@@ -227,7 +240,7 @@ Image processing filters with gallery integration.
   <img src="https://user-images.githubusercontent.com/30619162/90522358-4814cc80-e174-11ea-8f10-16c436b0abb6.gif" width="24%">
 </p>
 
-### 20. Android Intro Slides 🚀
+### 21. Android Intro Slides 🚀
 Customizable onboarding screens using ViewPager.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/30619162/90534222-27537380-e182-11ea-8296-4d85e5928d7b.gif" width="24%">
@@ -235,7 +248,7 @@ Customizable onboarding screens using ViewPager.
   <img src="https://user-images.githubusercontent.com/30619162/90534232-2a4e6400-e182-11ea-9859-4f038921a6c1.gif" width="24%">
 </p>
 
-### 21. Calculator App | 22. Button Counter | 23. Dinner Decider 🛠️
+### 22. Calculator App | 23. Button Counter | 24. Dinner Decider 🛠️
 Utility tools demonstrating layout logic and state management.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/30619162/174648717-20c2a6b0-8605-41d4-b1bc-9aef3383b5de.png" width="24%">
@@ -248,7 +261,7 @@ Utility tools demonstrating layout logic and state management.
   <img src="https://github.com/user-attachments/assets/7e02601d-2d4d-4f8c-8dac-6d732bddb745" width="24%">
 </p>
 
-### 24. Nav Drawer | 25. Bottom Nav | 26. Bottom Nav Fragments | 27. Switch Activity 🗺️
+### 25. Nav Drawer | 26. Bottom Nav | 27. Bottom Nav Fragments | 28. Switch Activity 🗺️
 Implementation of core Android navigation patterns.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/30619162/90054320-6302bf00-dce4-11ea-936a-0270a23f3e63.gif" width="24%">
@@ -261,7 +274,7 @@ Implementation of core Android navigation patterns.
   <img src="https://user-images.githubusercontent.com/30619162/90009689-34b2be80-dca7-11ea-8542-3ec2506a1bd9.gif" width="24%">
 </p>
 
-### 28. RecyclerView/CardView | 29. RecyclerView Search | 30. CardView Example ✨
+### 29. RecyclerView/CardView | 30. RecyclerView Search | 31. CardView Example ✨
 Advanced list displays and search functionalities.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/30619162/90392243-2e518780-e097-11ea-965c-5d895d48ceb2.gif" width="24%">
@@ -269,7 +282,7 @@ Advanced list displays and search functionalities.
   <img src="https://user-images.githubusercontent.com/30619162/90533524-53222980-e181-11ea-88df-24023632f61a.gif" width="24%">
 </p>
 
-### 31. WebView | 32. Custom Alert Dialog | 33. MenuBar 🔗
+### 32. WebView | 33. Custom Alert Dialog | 34. MenuBar 🔗
 Integrating web content and enhancing user interaction.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/30619162/90334156-254bb200-dfd4-11ea-9fa7-2af673418e4e.gif" width="24%">
@@ -277,7 +290,7 @@ Integrating web content and enhancing user interaction.
   <img src="https://i.ibb.co/721Q2Zy/1.jpg" width="24%">
 </p>
 
-### 34. Custom Spinner | 35. Chronometer | 36. TextToSpeech | 37. Glide Demo 🛠️
+### 35. Custom Spinner | 36. Chronometer | 37. TextToSpeech | 38. Glide Demo 🛠️
 Interactive widgets and library integrations.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/30619162/90249300-dfabaf80-de42-11ea-8fb8-4d296bbe98bc.gif" width="24%">
@@ -288,7 +301,7 @@ Interactive widgets and library integrations.
   <img src="https://github.com/user-attachments/assets/e4dc9b45-6b73-4af8-9917-33c5f221d768" width="45%">
 </p>
 
-### 38. 🔔 NotificationsSample 📲
+### 39. 🔔 NotificationsSample 📲
 A comprehensive guide to implementing various types of Android notifications.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c1f19709-6716-4914-b973-9d5fc00c7cbb" width="24%">
@@ -300,7 +313,7 @@ A comprehensive guide to implementing various types of Android notifications.
 
 ## 🎮 Mini Games
 
-### 39. ❌ TicTacToe 🕹️
+### 40. ❌ TicTacToe 🕹️
 Classic logic game implementation.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/30619162/90333115-a5b9e500-dfcb-11ea-8af8-6c342aace690.gif" width="24%">
@@ -308,7 +321,7 @@ Classic logic game implementation.
   <img src="https://user-images.githubusercontent.com/30619162/90333117-a6eb1200-dfcb-11ea-8fba-0a3fb7f84fd6.gif" width="24%">
 </p>
 
-### 40. Dice Roller | 41. Dice Roller Double 🎲
+### 41. Dice Roller | 42. Dice Roller Double 🎲
 Randomized dice logic with animations.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/30619162/90520687-5c57ca00-e172-11ea-8bd4-c399bf470c4c.gif" width="24%">
@@ -319,33 +332,33 @@ Randomized dice logic with animations.
 
 ## 🏗️ Fundamentals & Layouts
 
-### 42. Android Activity Lifecycle 🔄
+### 43. Android Activity Lifecycle 🔄
 Deep dive into Android Activity states and transitions.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c17d5be7-e5b4-42c8-be2c-74ee09a3f245" width="36%">
   <img src="https://github.com/user-attachments/assets/58151a7c-788d-459c-9150-7fd78be00bdf" width="36%">
 </p>
 
-### 43. FrameLayout Sample Project 🖼️
+### 44. FrameLayout Sample Project 🖼️
 Exploring stack-based layout management.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b2bb5e0b-6da9-448d-97f6-1b6d629d33c1" width="36%">
   <img src="https://github.com/user-attachments/assets/ada901c0-b09a-4ba6-acba-79c47f343986" width="36%">
 </p>
 
-### 44. ConstraintLayout Demo 🔗
+### 45. ConstraintLayout Demo 🔗
 Building complex, flat UI hierarchies for performance.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0f1cbfd4-242d-4037-8e85-658512078178" width="45%">
 </p>
 
-### 45. RelativeLayout Sample Project 📐
+### 46. RelativeLayout Sample Project 📐
 Positioning components relative to parents and siblings.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b1978a1b-57d9-441a-af5c-b6b0545d9dff" width="45%">
 </p>
 
-### 46. LinearLayout Demo 📏
+### 47. LinearLayout Demo 📏
 Simple horizontal and vertical alignment of UI elements.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a316f49e-8700-4c7f-95b7-43ba1ae55ed3" width="45%">
