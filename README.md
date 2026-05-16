@@ -159,7 +159,7 @@ A comprehensive finance tracking application with data visualization.
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c8790f2b-fe6c-4df5-b128-81b41441ed01" width="24%">
-  <img src="https://github.com/user-attachments/assets/61cd86e3-9595-4c46-aafd-c54e4860103" width="24%">
+  <img src="https://github.com/user-attachments/assets/61cd86e3-9595-4c46-aafd-c54e48601c03" width="24%">
   <img src="https://github.com/user-attachments/assets/96615cb1-b6ca-4be5-9bcf-a06dfec13a03" width="24%">
 </p>
 
