@@ -410,4 +410,9 @@ Simple horizontal and vertical alignment of UI elements.
 
 ---
 
-
+<p align="center">
+  <i>Created with ❤️ by <b>Barış Karapınar</b></i>
+  <br>
+  <a href="https://medium.com/@bariskarapinar"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://github.com/bariskarapinar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
