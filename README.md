@@ -1,7 +1,6 @@
 # 📱 Android Development Portfolio 🚀
 
 
-
 ---
 
 ## 👋 Welcome!
